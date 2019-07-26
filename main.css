@@ -1,11 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap');
 
+@font-face {
+  font-family: 'Barton Graph';
+  src: /*url('webfont.eot'); /* IE9 Compat Modes */
+  /*src: /*url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       /*url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       /*url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/Barton-Graph/TTF/Barton Graph.ttf')  format('truetype'), /* Safari, Android, iOS */
+       /*url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
 body {
 	font-family: 'Montserrat Alternates', sans-serif;
 	text-align: center;
 }
 
 h1 {
+	font-family: 'Barton Graph', cursive, serif;
 	color: #706391;
 	margin: 0;
 	padding: 0;
