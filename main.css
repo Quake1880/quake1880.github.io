@@ -19,7 +19,7 @@ body {
 h1 {
 	font-family: 'Barton Graph', cursive, serif;
 	color: #706391;
-	margin: 0.2em 0 -0.2em 0;
+	margin: 0.2em 32px -0.2em 32px;
 	
 	font-size: 7em;
 }
