@@ -19,17 +19,17 @@ h1 {
 	font-family: 'Barton Graph', cursive, serif;
 	color: #706391;
 	margin: 0;
+	margin-bottom: -0.3em;
 	padding: 0;
 	
-	font-size: 2em;
+	font-size: 8em;
 }
 
 h2 {
 	color: #706391;
 	margin: 0;
 	padding: 0;
-	
-	font-weight: 100;
+	font-size: 2em;
 }
 
 p {
