@@ -1,5 +1,11 @@
+body {
+	text-align: center;
+}
+
 h1, h2 {
 	color: #706391;
+	margin: 0;
+	padding: 0;
 }
 
 p {
