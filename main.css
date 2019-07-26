@@ -57,8 +57,8 @@ div.container {
 div.box {
 	position: relative;
 	background-color: white;
-	width: 512px;
-	margin: 32px auto;
+	width: 640px;
+	margin: auto;
 	border-radius: 16px;
 	text-align: center;
 	padding: 16px;
@@ -66,6 +66,6 @@ div.box {
 
 img.logo {
 	margin: 32px;
-	width: 128px;
+	width: 192px;
 	border-radius: 16px;
 }
