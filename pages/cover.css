@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat+Alternates&display=swap");
+@font-face {
+  font-family: 'Barton Graph';
+  src: url("/fonts/Barton-Graph/TTF/Barton Graph.ttf") format("truetype"); }
+
+body {
+  background-color: #3E3360;
+  font-family: 'Montserrat Alternates', sans-serif; }
+
+h1 {
+  font-family: 'Barton Graph', cursive, serif;
+  color: #706391; }
+
+h2 {
+  color: #706391; }
+
+p {
+  color: #706391; }
+
+a {
+  background-color: #706391;
+  color: #fff; }
+
+#content {
+  position: relative; }
+
+#sidebar {
+  position: absolute;
+  background-color: #706391;
+  height: 100%;
+  color: #fff; }
+
+#background {
+  position: absolute;
+  left: 128px;
+  height: 100%;
+  background-color: #fff; }
+
+.page-table {
+  display: table;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #706391; }
+
+.page-cell {
+  display: table-cell;
+  position: relative;
+  vertical-align: middle; }
+
+.content {
+  position: relative;
+  margin: auto;
+  width: 640px;
+  background-color: #fff; }
